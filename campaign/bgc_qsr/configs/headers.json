@@ -1,0 +1,32 @@
+{
+  "sheets": [
+    {
+      "sheet_name": "app_user_id",
+      "headers": [
+        {
+          "header_names": [
+            "app_user_id"
+          ],
+          "row": 0,
+          "col": 0
+        }
+      ]
+    },
+    {
+      "sheet_name": "app_user_details",
+      "headers": [
+        {
+          "header_names": [
+            "app_user_id",
+            "name",
+            "onboarding version",
+            "city",
+            "mobile number"
+          ],
+          "row": 0,
+          "col": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: base64-util
+Version: 0.1
+Summary: Some utility functions for handling base64 strings
+Home-page: http://github.com/jlents/base64_util
+Author: Joshua Lents
+Author-email: joshua.lents@gmail.com
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN

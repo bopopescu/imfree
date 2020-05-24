@@ -1,0 +1,68 @@
+{
+  "sheets": [
+    {
+      "sheet_name": "req_1",
+      "headers": [
+        {
+          "header_names": [
+            "Date",
+            "Rewards",
+            "Redeemed",
+            "Unredeemed"
+          ],
+          "row": 0,
+          "col": 0
+        }
+      ]
+    },
+    {
+      "sheet_name": "req_2",
+      "headers": [
+        {
+          "header_names": [
+            "Year",
+            "Month",
+            "Redemption Channel",
+            "Redemption"
+          ],
+          "row": 0,
+          "col": 0
+        },
+        {
+          "header_names": [
+            "Year",
+            "Month",
+            "Transaction Name",
+            "Amount Earned",
+            "Amount Redeemed",
+            "Count Earned",
+            "Count Redeemed"
+          ],
+          "row": 0,
+          "col": 5
+        }
+      ]
+    },
+    {
+      "sheet_name": "req_3",
+      "headers": [
+        {
+          "header_names": [
+            "Year",
+            "Month",
+            "mgm_no_of_users",
+            "mgm",
+            "reg_no_of_users",
+            "reg",
+            "convo_no_of_users",
+            "convo",
+            "migames_no_of_users",
+            "migames"
+          ],
+          "row": 0,
+          "col": 0
+        }
+      ]
+    }
+  ]
+}
